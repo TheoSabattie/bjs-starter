@@ -4,8 +4,6 @@
     },
     "files": [
         "typings/babylon.d.ts",
-        "Timer.ts",
-        "Game.ts",
-        "Preloader.ts"
+        "Game.ts"
     ]
 }
